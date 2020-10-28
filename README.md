@@ -9,3 +9,6 @@ Ejercicio de pila: Hacer un programa para agregar números enteros a una pila, h
 
 
 aqui estan algumas capturas de pantalla mostrando que el programa si funciona.
+
+![Captura de pantalla (364) png](https://user-images.githubusercontent.com/71051834/97481774-e8c4fc80-191a-11eb-97cf-a956cb0ba1ea.jpg)
+
